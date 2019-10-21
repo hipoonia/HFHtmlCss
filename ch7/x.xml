@@ -1,0 +1,22 @@
+<recipe xmlns="http://www.foodnetwerk.com/recipe" lang="en" xml:lang="en">
+ <name>Head First Lounge Iced Tea</name>
+ <description>A brisk iced tea with a bit of a kick. We
+ serve this all day long.
+ </description>
+ <ingredients>
+ <ingredient measurement="6 cups">water</ingredient>
+ <ingredient measurement="2 bags">black tea</ingredient>
+ <ingredient measurement="2 bags">earl grey tea</ingredient>
+ <ingredient measurement="6 cups">ice</ingredient>
+ </ingredients>
+ <preparation>
+ <time duration="10 minutes" />
+ <step>Boil one cup of water in a pan, remove pan, and
+ add tea. Let steep for five minutes.</step>
+ <step>Add ice to a pitcher, then add tea,
+ then 5 cups cold water.</step>
+ <step>Mix well and serve. Give tea a
+ quick shake in a shaker for an
+ extra touch.</step>
+ </preparation>
+</recipe>
